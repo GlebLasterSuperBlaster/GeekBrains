@@ -1,0 +1,39 @@
+gleb@gleb:/etc/apache2/sites-available$ sudo systemctl status nginx.service
+● nginx.service - A high performance web server and a reverse proxy server
+   Loaded: loaded (/lib/systemd/system/nginx.service; enabled; vendor preset: enabled)
+   Active: active (running) since Thu 2020-08-20 11:59:41 MSK; 11min ago
+     Docs: man:nginx(8)
+  Process: 27902 ExecStart=/usr/sbin/nginx -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
+  Process: 27889 ExecStartPre=/usr/sbin/nginx -t -q -g daemon on; master_process on; (code=exited, status=0/SUCCESS)
+ Main PID: 27904 (nginx)
+    Tasks: 9 (limit: 4915)
+   CGroup: /system.slice/nginx.service
+           ├─27904 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+           ├─27906 nginx: worker process
+           ├─27908 nginx: worker process
+           ├─27910 nginx: worker process
+           ├─27912 nginx: worker process
+           ├─27914 nginx: worker process
+           ├─27915 nginx: worker process
+           ├─27916 nginx: worker process
+           └─27917 nginx: worker process
+
+gleb@gleb:/etc/apache2/sites-available$ sudo systemctl status apache2
+● apache2.service - The Apache HTTP Server
+   Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+  Drop-In: /lib/systemd/system/apache2.service.d
+           └─apache2-systemd.conf
+   Active: active (running) since Thu 2020-08-20 12:00:01 MSK; 12min ago
+  Process: 27729 ExecStop=/usr/sbin/apachectl stop (code=exited, status=0/SUCCESS)
+  Process: 27947 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)
+ Main PID: 27969 (apache2)
+    Tasks: 6 (limit: 4915)
+   CGroup: /system.slice/apache2.service
+           ├─27969 /usr/sbin/apache2 -k start
+           ├─27973 /usr/sbin/apache2 -k start
+           ├─27974 /usr/sbin/apache2 -k start
+           ├─27975 /usr/sbin/apache2 -k start
+           ├─27976 /usr/sbin/apache2 -k start
+           └─27977 /usr/sbin/apache2 -k start
+
+

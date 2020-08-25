@@ -1,0 +1,550 @@
+2020/06/13 15:08:26 [error] 1037#1037: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:08:28 [error] 1037#1037: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:08:28 [error] 1037#1037: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:09:10 [error] 1037#1037: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:09:10 [error] 1037#1037: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:26:59 [error] 3154#3154: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:27:00 [error] 3154#3154: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:31:04 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:31:04 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:31:10 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:31:11 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:31:15 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:31:16 [error] 17802#17802: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:45:20 [error] 17802#17802: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:45:21 [error] 17802#17802: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:45:56 [error] 19114#19114: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:45:56 [error] 19114#19114: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:45:59 [error] 19114#19114: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:45:59 [error] 19114#19114: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:51:15 [error] 19602#19602: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:51:15 [error] 19602#19602: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:51:36 [error] 19743#19743: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:51:36 [error] 19743#19743: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:51:38 [error] 19743#19743: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:51:38 [error] 19743#19743: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:52:29 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:52:29 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:52:31 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:52:31 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:52:32 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:52:32 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 15:52:32 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 15:52:33 [error] 19888#19888: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:04:59 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:04:59 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:00 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:00 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:01 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:01 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:02 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:02 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:02 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:02 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:03 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:03 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:04 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:04 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:06 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:06 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:07 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:07 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:09 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:09 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:10 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:10 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:10 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:10 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:11 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:11 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:05:12 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:05:12 [error] 20583#20583: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:07 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:07 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:09 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:09 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:09 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:09 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:09 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:10 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:10 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:10 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:10 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:11 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:11 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:11 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:12 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:12 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:12 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:13 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:13 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:13 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:14 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:15 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:16 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:16 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:07:18 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:07:18 [error] 20948#20948: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:26:03 [error] 22151#22151: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:26:03 [error] 22151#22151: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:26:21 [error] 22151#22151: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:26:21 [error] 22151#22151: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:32:37 [error] 22151#22151: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:32:38 [error] 22151#22151: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:32:56 [error] 22471#22471: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:32:57 [error] 22471#22471: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:40 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:40 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:42 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:42 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:42 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:43 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:43 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:43 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:44 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:44 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:45 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:45 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:45 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:45 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:46 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:46 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:46 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:47 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/13 16:46:47 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/13 16:46:47 [error] 23772#23772: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/20 22:16:15 [error] 9327#9327: *9 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:21:32 [error] 9327#9327: *25 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:26:55 [error] 9327#9327: *40 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '}' in /home/gleb/sites/public/index.php on line 9" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:26:57 [error] 9327#9327: *40 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '}' in /home/gleb/sites/public/index.php on line 9" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:27:01 [error] 9327#9327: *40 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '}' in /home/gleb/sites/public/index.php on line 9" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:27:20 [error] 9327#9327: *40 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '}' in /home/gleb/sites/public/index.php on line 9" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:27:26 [error] 9327#9327: *40 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '}' in /home/gleb/sites/public/index.php on line 9" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/20 22:33:52 [error] 9327#9327: *73 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 21:50:58 [error] 1569#1569: *4 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 21:50:59 [error] 1569#1569: *4 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 21:52:32 [error] 1569#1569: *8 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 21:52:33 [error] 1569#1569: *8 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 21:54:10 [error] 1569#1569: *14 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '+', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 21:54:11 [error] 1569#1569: *14 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '+', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 21:55:54 [error] 1569#1569: *18 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '$age' (T_VARIABLE) in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:01:09 [error] 1569#1569: *27 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '{' in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:05:16 [error] 1569#1569: *32 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:05:16 [error] 1569#1569: *32 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:06:41 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:06:42 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:07:41 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:07:42 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:08:38 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:08:38 [error] 1569#1569: *36 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:10:54 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:10:54 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:11:23 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:11:24 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:11:34 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:11:35 [error] 1569#1569: *45 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:16:40 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:16:40 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:17:28 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:17:28 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:18:02 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:18:03 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:18:03 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:18:03 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:18:36 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:18:36 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:18:53 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:18:53 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:18:53 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:18:53 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:19:01 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:19:01 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:19:05 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:19:05 [error] 1569#1569: *57 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:31:04 [error] 1569#1569: *79 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:31:04 [error] 1569#1569: *79 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 7
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:32:46 [error] 1569#1569: *83 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected 'Меня' (T_STRING) in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:38:40 [error] 1569#1569: *86 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected 'лет' (T_STRING) in /home/gleb/sites/public/index.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:39:02 [error] 1569#1569: *86 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected 'На' (T_STRING) in /home/gleb/sites/public/index.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:39:30 [error] 1569#1569: *86 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '$string' (T_VARIABLE) in /home/gleb/sites/public/index.php on line 12" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:39:41 [error] 1569#1569: *86 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:39:41 [error] 1569#1569: *86 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:40:54 [error] 1569#1569: *99 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:40:54 [error] 1569#1569: *99 FastCGI sent in stderr: "PHP message: PHP Warning:  A non-numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:42:40 [error] 1569#1569: *103 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:42:40 [error] 1569#1569: *103 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:48:08 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:48:08 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:48:19 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:48:19 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:48:38 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:48:39 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 6
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:49:12 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:49:13 [error] 1569#1569: *107 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:50:44 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '+=' (T_PLUS_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:50:55 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:50:56 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:51:51 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:51:51 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:51:53 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:51:53 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:52:15 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:52:16 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:52:17 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:52:17 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Warning:  Use of undefined constant name - assumed 'name' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0
+PHP message: PHP Warning:  Use of undefined constant age - assumed 'age' (this will throw an Error in a future version of PHP) in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:52:42 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:52:42 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:53:31 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:53:32 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:53:32 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:53:32 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:53:50 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:53:50 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:54:10 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:54:11 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:54:32 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:54:33 [error] 1569#1569: *120 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 8
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 22:59:53 [error] 1569#1569: *160 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 9
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 22:59:53 [error] 1569#1569: *160 FastCGI sent in stderr: "PHP message: PHP Notice:  A non well formed numeric value encountered in /home/gleb/sites/public/index.php on line 9
+PHP message: PHP Stack trace:
+PHP message: PHP   1. {main}() /home/gleb/sites/public/index.php:0" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/"
+2020/06/23 23:00:18 [error] 1569#1569: *160 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 23:10:28 [error] 15507#15507: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 23:10:30 [error] 15507#15507: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 23:10:31 [error] 15507#15507: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 23:10:32 [error] 15507#15507: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/06/23 23:10:32 [error] 15507#15507: *1 FastCGI sent in stderr: "PHP message: PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/gleb/sites/public/index.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/07 23:50:19 [error] 1346#1346: *7 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/07 23:51:20 [error] 1346#1346: *7 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/07/08 00:15:26 [error] 1346#1346: *22 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/08 00:16:26 [error] 1346#1346: *22 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/07/30 00:53:00 [error] 1219#1219: *6 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 00:55:41 [error] 1219#1219: *6 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 00:56:42 [error] 1219#1219: *6 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/07/30 01:04:24 [error] 1219#1219: *21 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 01:17:20 [error] 1219#1219: *36 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 01:20:58 [error] 1219#1219: *47 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 01:21:59 [error] 1219#1219: *47 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/07/30 02:43:14 [error] 1219#1219: *58 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/07/30 02:44:14 [error] 1219#1219: *58 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/08/19 03:27:14 [error] 1343#1343: *66 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru"
+2020/08/19 03:28:14 [error] 1343#1343: *66 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 127.0.0.1, server: znak.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "znak.ru", referrer: "http://znak.ru/index.php"
+2020/08/20 08:43:00 [error] 6092#6092: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: znak.ru, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "znak.ru"
+2020/08/20 09:54:51 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:54:51 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"
+2020/08/20 09:54:55 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:54:55 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"
+2020/08/20 09:55:31 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:55:31 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"
+2020/08/20 09:55:33 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:55:33 [error] 13615#13615: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"
+2020/08/20 09:56:57 [error] 13773#13773: *118 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:56:57 [error] 13773#13773: *118 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"
+2020/08/20 09:56:59 [error] 13773#13773: *118 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite"
+2020/08/20 09:56:59 [error] 13773#13773: *118 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: testsite, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/index.php", host: "testsite", referrer: "http://testsite/"

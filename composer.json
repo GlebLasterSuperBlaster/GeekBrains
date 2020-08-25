@@ -1,0 +1,10 @@
+{
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*"
+  },
+  "require": {
+    "ext-mbstring": "*",
+    "ext-dom": "*",
+    "monolog/monolog": "^2.1"
+  }
+}
